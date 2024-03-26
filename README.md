@@ -1,12 +1,13 @@
 # Crowdfunding_ETL
 
-**Dream Team workforce: **
-*********************
+**************************
+** Dream Team's workforce **
+**************************
 
 Kiet and Michael:
-_________________
-A Category DataFrame is Created (15 points)
-A Subcategory DataFrame is Created (15 points)
+----------------
+
+A Category DataFrame is Created (15 points) & A Subcategory DataFrame is Created (15 points)
 
 Patrick and Jordan:
 -------------------
