@@ -1,1 +1,1 @@
-This is our repository for Project 2 (the ETL mini project). The code and visulization conatained in this repository were created through equal efforts by Patrick Dean, Kiet Hoang, Jordan Mayville, Fara Nagahvi, and Michael Nurthen.
+This is our repository for Project 2 (the ETL mini project). The code and visualizations contained in this repository were created through equal efforts by Patrick Dean, Kiet Hoang, Jordan Mayville, Fara Nagahvi, and Michael Nurthen.
